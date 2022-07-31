@@ -15,3 +15,5 @@ https://53711.gradio.app
 
 https://22551.gradio.app
 
+This is for the GDG Tuscan ML Hackathon July 31st 2022
+
